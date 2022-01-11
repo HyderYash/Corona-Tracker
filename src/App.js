@@ -5,6 +5,7 @@ import Statistics from './components/Statistics'
 function App() {
     return (
         <div style={{ backgroundColor: 'grey' }}>
+        <h1>erer</h1>
             <Main />
             <Statistics />
         </div>
